@@ -1,0 +1,13 @@
+.hgignore
+*.pyc
+*.bak
+*.1
+/examples/databases
+/examples/cache
+/examples/errors
+/examples/sessions
+.project
+.pydevproject
+.hg
+.hg/*.*
+.hg/*
