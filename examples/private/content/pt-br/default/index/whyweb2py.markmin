@@ -1,0 +1,12 @@
+### Porque web2py ?
+
+- **Criado por uma communidade de profissionais** e professores universitários em Ciência da Computação e Engenharia de Software.
+- **Sempre mantem compatibilidade com versões anteriores.** Nós não quebramos a compatibilidade com versões anteriores desde a versão 1.0 de 2007, e nós estamos comprometidos a não quebra-la no futuro.
+- **Fácil para executar.** Não é necessário instalação ou configuração.
+- **Funciona no** Windows, Mac, Unix/Linux, Google App Engine, Amazon EC2, e na maioria das hospedagens web para Python 2.4/2.5/2.6/2.7, ou Java com Jython.
+- **Funciona com** Apache, Lighttpd, Cherokee e com a maioria dos outros servidores web via CGI, FastCGI, WSGI, mod_proxy, e/ou mod_python. Isto pode embutir aplicações WSGI de terceiros e middleware.
+- **Compatível com** SQLite, PostgreSQL, MySQL, MSSQL, FireBird, Oracle, IBM DB2, Informix, Ingres, and Google App Engine. 
+- **Seguro** [[Isto previne a maioria das vulnerabilidades conhecidas examples/default/security]] incluindo Cross Site Scripting, Falhas de Injeção, e Execução de Arquivos Maliciosos.
+- **Estimula o uso de boas práticas de Engenharia de Software** (padrão Modelo-Visão-Controlador (MVC), Validação de formulários no lado do servidor, postagens) que tornam o codigo mais legível, escalavel e de simples manutenção.
+- **Compatível com multiplos protocolos** HTML/XML, RSS/ATOM, RTF, PDF, JSON, AJAX, XML-RPC, CSV, REST, WIKI, Flash/AMF, e Linked Data (RDF). 
+- **Inclui** um servidor com SSL ativado e capaz de realizar streaming, um banco de dados relacional, um ambiente integrado para desenvolvimento e interface de administração baseada na web, uma camada de abstração de banco de dados (DAL) que escreve SQL para você em tempo real, suporte para internationalização, multiplos métodos de autenticação, controle de acesso baseado em papéis, um sistema de log e tickets de erros, multiplos metódos de cache para escalabilidade, a bliblioteca jQuery para AJAX e efeitos. [[Saiba mais... examples/default/what]]
